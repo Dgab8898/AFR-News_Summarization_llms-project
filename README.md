@@ -6,12 +6,12 @@
     "More specifically, we've applied this to Summarization - a classic Gen AI use case to make a summary of AFR paper. This can be applied to any business, and prototyping a solution.
 
 ### Libraries and Packages
-- "import os
+- import os
 - import requests
 - from dotenv import load_dotenv
 - from bs4 import BeautifulSoup
 - from IPython.display import Markdown, display
-- from openai import OpenAI"
+- from openai import OpenAI
 
 
 
