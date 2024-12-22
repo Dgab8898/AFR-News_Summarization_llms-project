@@ -4,7 +4,7 @@
 #### Business applications
     "In this project Using **Openi API** to summarise Australian Financial Review,calling the Cloud API of a Frontier Model (a leading model at the frontier of AI). We will be using APIs like OpenAI at many stages in the course, in addition to building our own LLMs.",
     "More specifically, we've applied this to Summarization - a classic Gen AI use case to make a summary of AFR paper. This can be applied to any business, and prototyping a solution.
-...
+""
 ### libraries and Packages
 - import os
 - import requests
@@ -12,7 +12,7 @@
 - from bs4 import BeautifulSoup
 - from IPython.display import Markdown, display
 - from openai import OpenAI
-...
+""
 
 
 
