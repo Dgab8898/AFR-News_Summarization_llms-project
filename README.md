@@ -12,6 +12,22 @@
 - from bs4 import BeautifulSoup
 - from IPython.display import Markdown, display
 - from openai import OpenAI
+
+## Installation
+```
+import pandas as pd
+import numpy as np
+import yfinance as yf
+%matplotlib inline
+import matplotlib.pyplot as plt
+!pip install tensorflow
+import tensorflow as tf
+from sklearn.processing import MinMaxScaler
+from tensorflow.keras.preprocessing.sequence import TimeseriesGenerator
+from tensorflow.keras.models import sequential 
+from tensorflow.keras.layes import Dense, LSTM
+from tensorflow.keras.callbacks import EarlyStopping 
+```
   
 
 
