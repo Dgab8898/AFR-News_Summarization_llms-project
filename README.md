@@ -18,8 +18,8 @@ from openai import OpenAI
 ## Processes
 ```
 Create website object
-define sytem prompt
-write function that write user prompts. it takes a website as an argumet and return prompt respone.
+Define sytem prompt
+Write function that write user prompts. it takes a website as an argument and return prompt respone.
 We call Open AI to summarise the website
 
 ```
@@ -27,10 +27,15 @@ We call Open AI to summarise the website
 
 
 ### Credit #####
- Ed Donner
+...
+
+ Ed Donner and the contributors
 
 ...
+
 ### Licence 
+
+...
  - Copyright (C) 2024 David Gabriel
 ...
 
