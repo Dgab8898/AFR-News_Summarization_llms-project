@@ -31,15 +31,16 @@ We call Open AI to summarise the website
 
 ```
 
-## Licwnce 
+## Licence 
 ```
 
 Copyright (C) 2024 David Gabriel
 
 ```
 
+## Ref 
+```
 
-### Ref
-.......
-https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models
-......
+(https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models)
+
+```
