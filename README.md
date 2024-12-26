@@ -24,15 +24,6 @@ We call Open AI to summarise the website
 
 ```
 
-
-
-### Credit #####
-...
-
- Ed Donner and the contributors
-
-...
-
 ## Credit 
 ```
 
