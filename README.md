@@ -14,12 +14,16 @@ from bs4 import BeautifulSoup
 from IPython.display import Markdown, display
 from openai import OpenAI
 ```
-  
+## Processes
+```
+Webscraping
+
+```
 
 
 
 ### Credit #####
- I am setting on the gaint shoulder's of the developers, programers, and contributor
+ Ed Donner
 
 ...
 ### Licence 
