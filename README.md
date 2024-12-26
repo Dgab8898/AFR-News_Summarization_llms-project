@@ -31,11 +31,13 @@ We call Open AI to summarise the website
 
 ```
 
-### Licence 
+## Licwnce 
+```
 
-...
- - Copyright (C) 2024 David Gabriel
-...
+Copyright (C) 2024 David Gabriel
+
+```
+
 
 ### Ref
 .......
