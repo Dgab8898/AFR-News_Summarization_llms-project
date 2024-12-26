@@ -3,6 +3,7 @@
 ####  Frontier LLM Project!
     "In this project Using **Openi API** to summarise Australian Financial Review,calling the Cloud API of a Frontier Model (a leading model at the frontier of AI). We will be using APIs like OpenAI at many stages in the course, in addition to building our own LLMs.",
     "More specifically, we've applied this to Summarization - a classic Gen AI use case to make a summary of AFR paper. This can be applied to any business, and prototyping a solution.
+    The goal is to create a summarised version of Australian Financial reviews paper, preserving important information.
 
 
 ## Installation
@@ -16,7 +17,10 @@ from openai import OpenAI
 ```
 ## Processes
 ```
-Webscraping
+Create website object
+define sytem prompt
+write function that write user prompts. it takes a website as an argumet and return prompt respone.
+We call Open AI to summarise the website
 
 ```
 
